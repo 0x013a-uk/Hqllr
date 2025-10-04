@@ -27,6 +27,3 @@ Hqllr transforms raw documents into compact, deduplicated knowledge ready for in
 ## Security & Privacy
 - Built for offline/sovereign use. No telemetry by default.
 - See `SECURITY.md` and `PRIVACY.md`.
-
-## License
-- Source-available preview license (non-production). Commercial licensing on request.
